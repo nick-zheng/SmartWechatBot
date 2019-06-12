@@ -34,7 +34,7 @@
 ### nodejs/javascript版  
    [wechat-bot:NodeJS封装网页版微信接口](https://github.com/coderafei/wechat-bot)  
   
-   [wechaty:javascript(ES6)微信机器人SDK](https://github.com/Chatie/wechaty)   【仍在维护】
+   [wechaty:javascript(ES6)微信机器人SDK](https://github.com/Chatie/wechaty)【仍在维护】  
   
   
   
@@ -107,3 +107,9 @@
    [一台电脑可最高同步控制20-3000个微信的高效群控系统](http://blog.sina.cn/dpool/blog/s/blog_66b6a03f0102zida.html)  
   
   
+  
+---  
+(未完待续）
+---  
+
+ 
