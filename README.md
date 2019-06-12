@@ -46,9 +46,9 @@
 ### java版  
    [java版微信客户端](https://github.com/dadiyang/wechat-client)  
   
-   [java版个人微信号](itchat4j：https://github.com/yaphone/itchat4j)  
+   [java版个人微信号: itchat4j](https://github.com/yaphone/itchat4j)  
   
-   [java版微信机器人](jeeves：https://github.com/kanjielu/jeeves)  
+   [java版微信机器人: jeeves](https://github.com/kanjielu/jeeves)  
   
   
   
